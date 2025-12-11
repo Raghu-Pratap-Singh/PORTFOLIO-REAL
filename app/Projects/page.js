@@ -35,6 +35,7 @@ function Projects() {
     <div id="projectcontainer">
         <a href="https://coruscating-blini-36fb32.netlify.app/">SHORTEST PATH SIMULATOR</a>
         <a href="https://sunny-sprite-44347a.netlify.app/">WEATHER APP</a>
+        <a href="https://pypi.org/project/segment-tree-visualizer/">SEGMENT TREE VISUALISER</a>
         
 
     </div>

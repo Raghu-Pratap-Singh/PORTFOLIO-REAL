@@ -682,11 +682,14 @@ left: 0px;
   text-shadow:  0px 0px 12px black;
   
 }
-#projectcontainer a:nth-child(1){
+#projectcontainer :nth-child(1){
   background-image: url("/maps.jpg");
 }
-#projectcontainer a:nth-child(2){
+#projectcontainer :nth-child(2){
   background-image: url("/rainy.jpg");
+}
+#projectcontainer :nth-child(3){
+  background-image: url("/sg.jpg");
 }
 #skillcover{
   background-image: url("/cards2.jpg");
